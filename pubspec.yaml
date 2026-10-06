@@ -1,0 +1,64 @@
+name: viva1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.4.0
+  firebase_auth: ^6.1.4
+  shared_preferences: ^2.2.2
+  cloud_firestore: ^6.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/images/workout/beginner_full_body/
+    - assets/images/workout/beginner_cardio/
+    - assets/images/workout/strength_upper_body/
+    - assets/images/workout/strength_lower_body/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/INTER_REGULAR.ttf
+          weight: 400
+        - asset: assets/fonts/INTER_SEMIBOLD.ttf
+          weight: 600
+        - asset: assets/fonts/INTER_BOLD.ttf
+          weight: 700
+
+    - family: OpenDyslexic
+      fonts:
+        - asset: assets/fonts/OpenDyslexic-Regular.otf
+          weight: 400
+        - asset: assets/fonts/OpenDyslexic-Bold.otf
+          weight: 700
+
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Satoshi-Bold.otf
+          weight: 700
+
+    - family: Figtree
+      fonts:
+        - asset: assets/fonts/Figtree-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Figtree-Bold.ttf
+          weight: 700
+
+
