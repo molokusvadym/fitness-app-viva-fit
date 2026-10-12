@@ -41,7 +41,7 @@ class _WorkoutScreenState extends State<BeginnerFullBodyWorkoutScreen> {
       name: "Speed Skaters",
       description: "Jump side to side lightly.",
       reps: "x10",
-      image: "assets/images/workout/BEGINNER_FULL_BODY/SPEED_SKATERS.png",
+      image: "assets/images/workout/beginner_full_body/SPEED_SKATERS.png",
     ),
   ];
 
