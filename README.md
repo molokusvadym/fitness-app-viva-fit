@@ -1,12 +1,18 @@
 # Viva Fit
 
-A mobile fitness app built with Flutter and Firebase. This was my final-year project 
+A mobile fitness app built with Flutter and Firebase. This was my final-year project.
+
+<p align="center">
+  <img src="app_screenshots/screen2.gif" width="240" alt="Intro screen">
+  <img src="app_screenshots/screen1.gif" width="240" alt="Dashboard">
+  <img src="app_screenshots/screen3.gif" width="240" alt="Dashboard navigation">
+</p>
 
 ## Features
 
 - 4 guided workouts (full body, interval cardio, upper body, lower body)
 - Manual run and walk timers
-- Progress tracker with streaks, weekly goals and badges
+- Progress tracker with streaks, weekly stats and badges
 - Firebase sign-in with enforced email verification
 - Workout history stored per user in Cloud Firestore and synced live
 - Accessibility settings: colour-blind modes, dyslexia-friendly font (OpenDyslexic), five text sizes and accent colours
