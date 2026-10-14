@@ -3,9 +3,9 @@
 A mobile fitness app built with Flutter and Firebase. This was my final-year project.
 
 <p align="center">
-  <img src="app_screenshots/screen2.gif" width="240" alt="Intro screen">
-  <img src="app_screenshots/screen1.gif" width="240" alt="Dashboard">
-  <img src="app_screenshots/screen3.gif" width="240" alt="Dashboard navigation">
+  <img src="app_screenshots/intro.gif" width="240" alt="Intro screen">
+  <img src="app_screenshots/home.gif" width="240" alt="Dashboard">
+  <img src="app_screenshots/workout.gif" width="240" alt="Workout Navigation">
 </p>
 
 ## Features
